@@ -77,3 +77,8 @@ let end = new Date();
 let diff = end.getTime() - start.getTime();
 
 console.log("Time taken (ms):", diff);
+
+
+//Get the Local time (Changing time zone)
+let localDate = new Date();
+console.log("Local Time:", localDate.toString()); //Local Time: Fri Jun 05 2026 09:42:06 GMT+0530 (India Standard Time)
