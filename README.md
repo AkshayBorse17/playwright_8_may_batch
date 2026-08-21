@@ -1,5 +1,3 @@
-# Playwright 8 May Batch
-
 A comprehensive JavaScript learning course covering fundamentals to advanced concepts, with practical exercises and examples.
 
 ## Project Description
